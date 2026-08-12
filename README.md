@@ -25,7 +25,7 @@ Unlike an initial deployment project, this lab focuses on administering an exist
 
 ## Project Modules
 
-### Module 1 – Active Directory Administration
+### Module 1 - Active Directory Administration ✅ Completed
 
 - User lifecycle management
 - Security groups
@@ -34,7 +34,7 @@ Unlike an initial deployment project, this lab focuses on administering an exist
 - Active Directory Recycle Bin
 - Administrative validation
 
-### Module 2 – Group Policy Administration
+### Module 2 - Group Policy Administration ✅ Completed
 
 - Administrative Templates
 - Loopback Processing
@@ -42,6 +42,7 @@ Unlike an initial deployment project, this lab focuses on administering an exist
 - Security Filtering
 - GPO Backup
 - GPO Restore
+- Group Policy validation and troubleshooting
 
 ### Module 3 – DNS Administration
 

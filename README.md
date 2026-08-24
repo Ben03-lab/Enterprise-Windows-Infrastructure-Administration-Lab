@@ -44,13 +44,20 @@ Unlike an initial deployment project, this lab focuses on administering an exist
 - GPO Restore
 - Group Policy validation and troubleshooting
 
-### Module 3 – DNS Administration
+### Module 3 - DNS Administration ✅ Completed
 
-- Forward Lookup Zones
-- Reverse Lookup Zones
-- Conditional Forwarders
-- Aging & Scavenging
-- DNS troubleshooting
+- Forward and Reverse Lookup Zone administration
+- A and PTR record creation and validation
+- DNS Forwarders and Conditional Forwarders
+- DNS Aging and Scavenging
+- Dynamic DNS registration and record management
+- DNS client cache administration
+- Internal and external name resolution testing
+- Active Directory DNS and SRV record validation
+- LDAP and Kerberos service discovery validation
+- DNS connectivity and service port testing
+- Active Directory domain controller discovery
+- DNS troubleshooting with PowerShell, nslookup, nltest, and dcdiag
 
 ### Module 4 – DHCP Administration
 

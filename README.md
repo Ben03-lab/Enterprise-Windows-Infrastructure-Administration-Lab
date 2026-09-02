@@ -59,7 +59,7 @@ Unlike an initial deployment project, this lab focuses on administering an exist
 - Active Directory domain controller discovery
 - DNS troubleshooting with PowerShell, nslookup, nltest, and dcdiag
 
-### Module 4 – DHCP Administration
+### Module 4 – DHCP Administration ✅ Completed
 
 - Reservations
 - Exclusion ranges

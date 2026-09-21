@@ -5,6 +5,12 @@
 This project demonstrates the administration, maintenance, troubleshooting, and documentation of an enterprise Windows Server infrastructure. The environment simulates the day-to-day responsibilities of a Junior Windows System Administrator using Windows Server 2022, Active Directory, Group Policy, DNS, DHCP, PowerShell, VMware Workstation Pro, and pfSense.
 
 Unlike an initial deployment project, this lab focuses on administering an existing enterprise environment through practical system administration tasks, automation with PowerShell, and infrastructure troubleshooting.
+The lab has also been expanded into a multi-site enterprise environment,
+integrating an HQ network with a simulated Branch Office through pfSense
+routing, Active Directory, DNS, and Windows file services. This environment
+provides hands-on experience with inter-site connectivity, centralized
+domain services, DFS Namespace, DFS Replication, and cross-network
+troubleshooting.
 
 ---
 
@@ -17,9 +23,12 @@ Unlike an initial deployment project, this lab focuses on administering an exist
 - DNS
 - DHCP
 - File Services
+- File Server Resource Manager (FSRM)
+- DFS Namespace and DFS Replication
 - PowerShell
 - VMware Workstation Pro
 - pfSense
+
 
 ---
 
@@ -67,13 +76,19 @@ Unlike an initial deployment project, this lab focuses on administering an exist
 - Lease management
 - DHCP troubleshooting
 
-### Module 5 – File Server Administration
+### Module 5 - File Server Administration ✅ Completed
 
-- NTFS permissions
+- Enterprise file shares and NTFS permissions
+- File Server Resource Manager (FSRM)
+- Storage quotas
+- File screening
+- Storage reports
+- File management tasks
 - Shadow Copies
-- File Screening
-- Disk Quotas
-- DFS (where applicable)
+- Domain-based DFS Namespace
+- DFS Replication
+- HQ-to-Branch file server integration
+- File server connectivity and firewall troubleshooting
 
 ### Module 6 – Windows Server Administration
 
